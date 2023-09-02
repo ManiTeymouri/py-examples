@@ -1,5 +1,5 @@
-# py-examples
-python example for improve my python skill 
+# py-examples / تمرین های پایتون 
+python examples for improve my python skill 
 
-all my examples are in example folder 
+در اینجا قرار هر تمرین یا سوالی که حل میکنم رو داخل این repository قرار بدم تا بعدا بهشون دسترسی داشته باشم و تا جایی که بتونم سعی میکنم نمونه سوال و روش حل کردنم هم داخل بخش readme قرار میدم 
 
